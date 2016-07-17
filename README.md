@@ -1,2 +1,2 @@
 # postgresql
-Документация PostgreSQL на русском языке http://postgresql.gitdata.net
+Документация PostgreSQL на русском языке http://postgresql.gitdata.ru
